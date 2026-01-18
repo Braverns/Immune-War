@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Title2" alt="Immune War Title">
+  <img src="/title2" alt="Immune War Title">
 </p>
 
 <p align="center">
