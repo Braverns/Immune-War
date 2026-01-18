@@ -54,12 +54,10 @@ dan menghadapi berbagai jenis bakteri hingga mencapai sumber infeksi utama.
 <strong>Immune War Development Team</strong>
 
 ### 🎨 Game Designers
-- Ahmad Diky Effendi  
-- Dwi Yati  
+- Ahmad Diky Effendi 
 
 ### 🎧 Artists & Audio
-- Adisty Nasywaa Huuriyah  
-- Aurelia Foustine  
+- Adisty Nasywaa Huuriyah    
 - Febe Olivia Sumali  
 - Pierre Haumahu  
 
