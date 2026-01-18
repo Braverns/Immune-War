@@ -70,3 +70,9 @@ dan menghadapi berbagai jenis bakteri hingga mencapai sumber infeksi utama.
 
 ## ✅ Status Clear
 Itch.io : https://bravern.itch.io/immune-war
+
+## Download
+- Windows: download MyGame_Windows.zip
+- Linux: download MyGame_Linux.zip
+
+⚠️ Windows Defender may show a warning. This is a known false positive for indie games.
