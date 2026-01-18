@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="title2.png" alt="Immune War Title">
+</p>
 
 <p align="center">
   <b>Action Platformer (Run & Gun)</b><br>
@@ -51,12 +54,10 @@ dan menghadapi berbagai jenis bakteri hingga mencapai sumber infeksi utama.
 <strong>Immune War Development Team</strong>
 
 ### 🎨 Game Designers
-- Ahmad Diky Effendi  
-- Dwi Yati  
+- Ahmad Diky Effendi 
 
 ### 🎧 Artists & Audio
-- Adisty Nasywaa Huuriyah  
-- Aurelia Foustine  
+- Adisty Nasywaa Huuriyah    
 - Febe Olivia Sumali  
 - Pierre Haumahu  
 
@@ -69,3 +70,9 @@ dan menghadapi berbagai jenis bakteri hingga mencapai sumber infeksi utama.
 
 ## ✅ Status Clear
 Itch.io : https://bravern.itch.io/immune-war
+
+## Download
+- Windows: download MyGame_Windows.zip
+- Linux: download MyGame_Linux.zip
+
+⚠️ Windows Defender may show a warning. This is a known false positive for indie games.
