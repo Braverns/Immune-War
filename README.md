@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="title2" alt="Immune War Title">
+</p>
 
 <p align="center">
   <b>Action Platformer (Run & Gun)</b><br>
